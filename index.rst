@@ -1,5 +1,5 @@
 #############
-Canon printer setup - How to Install Canon Printer Driver 
+Canon.com/ijsetup - How to Install Canon Printer Driver 
 #############
 
 .. image:: lets-get-started.png
