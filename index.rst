@@ -34,9 +34,7 @@ How to setup canon printer?
 *************
 
 
-**If the router does not have WPS feature, use this method. Below mentioned are the guidelines when a user wants to know how to setup Canon 
-
-printer using this method.**
+**If the router does not have WPS feature, use this method. Below mentioned are the guidelines when a user wants to know how to setup Canon printer using this method.**
 
 
 1. Connect computer to printer for the network settings.
