@@ -10,9 +10,7 @@ Canon printer setup - How to Install Canon Printer Driver
     :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 
 
-Although there are multiple brands of printers in the market, Canon is the first choice of users when it comes to perfect print. Canon is well-
-
-known for its high-quality printing. In order to use the printer, the first step is its canon printer setup.
+Although there are multiple brands of printers in the market, Canon is the first choice of users when it comes to perfect print. Canon is well-known for its high-quality printing. In order to use the printer, the first step is its canon printer setup.
 
 
 *************
@@ -71,5 +69,5 @@ Canon Printer Setup For Mac OS:
 2.  Select + symbol to add the printer.
 3.  In the available list, select the printer and add it.
 4.  In the case of a router, connect the Mac device and printer to the same network.
-5. To ensure the connection, take the test print..
+5. To ensure the connection, take the test print.
 
